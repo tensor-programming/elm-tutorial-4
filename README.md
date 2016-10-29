@@ -6,7 +6,7 @@
 
 ### You can also dynamically build the application by copy and pasting the code into the [elm try online app](http://elm-lang.org/try). (make sure to remove the first line of code first).
 
-### Check out the Youtube Tutorial for this specific elm Program. [video](https://youtu.be/9YgGnZnbTSw) Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this specific elm Program. [video](https://youtu.be/okt6-T0IiNI) Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
